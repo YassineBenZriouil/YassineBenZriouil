@@ -1,34 +1,32 @@
-# Yassine Ben Zriouil
+<h1 align="center">Hi 👋, I'm YASSINE Ben Zriouil</h1>
+<h3 align="center">A passionate Full-Stack developer from Morroco</h3>
 
-## 👨‍💻 Full Stack Developer | Learner | Tech Enthusiast
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yassinebenzriouil&label=Profile%20views&color=0e75b6&style=flat" alt="yassinebenzriouil" /> </p>
 
-Hey there! I'm Yassine, a full-stack developer from Morocco 🇲🇦. I'm on a journey to level up my coding game and build some cool projects along the way. Currently diving deep into **Laravel** and **React** to expand my toolkit.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yassinebenzriouil" alt="yassinebenzriouil" /></a> </p>
 
-### 🚀 Tech Stack
+- 🔭 I’m currently working on **ReserVite**
 
-- **Languages & Frameworks:**  
-  - **Backend:** Laravel, Node.js, PHP  
-  - **Frontend:** React, JavaScript  
-  - **Databases:** MongoDB, MySQL  
-  - **Styling:** Tailwind CSS  
-- **Tools:** Git, VS Code  
+- 🌱 I’m currently learning **React , Laravel , React Native , WordPress**
 
-### 🎯 Goal
+- 👨‍💻 All of my projects are available at [https://ybz.vercel.app/](https://ybz.vercel.app/)
 
-- Become a high-paid full-stack developer 💸  
-- Constantly learning, building, and growing.
+- 💬 Ask me about **React , Laravel , React Native , WordPress**
 
-### 🌐 Links
+- 📫 How to reach me **yassinebenzriouil7@gmail.com**
 
-- **Email:** [yassinebenzriouil7@gmail.com](mailto:yassinebenzriouil7@gmail.com)  
-- **LinkedIn:** [Yassine Ben Zriouil](https://www.linkedin.com/in/yassine-ben-zriouil-64b735276/)  
-- **Portfolio:** [ybz.vercel.app](https://ybz.vercel.app/)
+- 📄 Know about my experiences [https://ybz.vercel.app/](https://ybz.vercel.app/)
 
-### 📊 GitHub Stats
+- ⚡ Fun fact **I once spent 12 hours debugging a single line of code... turns out, it was just a missing semicolon. 😅**
 
-![Yassine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yassinebenzriouil7&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassinebenzriouil7&layout=compact&theme=transparent)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yassine-ben-zriouil-64b735276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yassine-ben-zriouil-64b735276/" height="30" width="40" /></a>
+</p>
 
-### 💬 Quote
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-“Keep it simple, keep it clean, ship fast.” ⚡
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yassinebenzriouil&show_icons=true&locale=en&layout=compact" alt="yassinebenzriouil" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yassinebenzriouil&" alt="yassinebenzriouil" /></p>
