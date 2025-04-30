@@ -2,8 +2,9 @@
 <h3 align="center">A passionate Full-Stack developer from Morroco</h3>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    ## 🏆 GitHub Trophies
+   ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YassineBenZriouil&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
   </a>
 </p>
 
