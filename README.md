@@ -9,18 +9,6 @@
 - 📄 Know about my experiences at [ybz.vercel.app](https://ybz.vercel.app/)
 - ⚡ Fun fact: **I once spent 12 hours debugging a single line of code... turns out, it was just a missing semicolon. 😅**
 
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/yassine-ben-zriouil-64b735276/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    
-  </a><a href="https://www.linkedin.com/in/yassine-ben-zriouil-64b735276/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp-alt.svg" alt="LinkedIn" height="30" width="40" />
-    
-  </a>
-</p>
-
-
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
