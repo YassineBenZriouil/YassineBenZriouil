@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm YASSINE Ben Zriouil</h1>
 <h3 align="center">A passionate Full-Stack developer from Morroco</h3>
 <p align="left">
-  <a>
-   ## 🏆 GitHub Trophies
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YassineBenZriouil&theme=radical&no-frame=false&no-bg=false&margin-w=4)
   </a>
 </p>
@@ -60,8 +60,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=YassineBenZriouil&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YassineBenZriouil&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YassineBenZriouil&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
 [![](https://visitcount.itsvg.in/api?id=YassineBenZriouil&icon=6&color=4)](https://visitcount.itsvg.in)
