@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm YASSINE Ben Zriouil</h1>
 <h3 align="center">A passionate Full-Stack developer from Morroco</h3>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-   ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YassineBenZriouil&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-  </a>
-</p>
 
 - 🔭 I’m currently working on **ReserVite**
 - 🌱 I’m currently learning **React, Laravel, React Native, WordPress**
