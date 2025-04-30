@@ -4,6 +4,10 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=yassinebenzriouil" alt="yassinebenzriouil" />
   </a>
+
+  ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=YassineBenZriouil&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 </p>
 
 - 🔭 I’m currently working on **ReserVite**
