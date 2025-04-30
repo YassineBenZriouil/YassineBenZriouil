@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm YASSINE Ben Zriouil</h1>
 <h3 align="center">A passionate Full-Stack developer from Morroco</h3>
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yassinebenzriouil" alt="yassinebenzriouil" />
-  </a>
-
   ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YassineBenZriouil&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
