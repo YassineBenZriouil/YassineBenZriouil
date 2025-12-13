@@ -40,6 +40,7 @@
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+![Unity Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=unity-unity)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=YassineBenZriouil&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
