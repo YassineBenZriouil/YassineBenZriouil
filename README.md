@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm YASSINE Ben Zriouil</h1>
 <h3 align="center">A passionate Full-Stack developer from Morroco</h3>
 
-- 🔭 I’m currently working on **ReserVite**
-- 🌱 I’m currently learning **React, Laravel, React Native, WordPress**
-- 👨‍💻 All of my projects are available at [ybz.vercel.app](https://ybz.vercel.app/)
-- 💬 Ask me about **React, Laravel, React Native, WordPress**
-- 📫 Reach me at **yassinebenzriouil7@gmail.com**
-- 📄 Know about my experiences at [ybz.vercel.app](https://ybz.vercel.app/)
-- ⚡ Fun fact: **I once spent 12 hours debugging a single line of code... turns out, it was just a missing semicolon. 😅**
+- Front-End  **React** **React-Native** **Next.js**
+- Back-End  **Node.js (Express)** **Laravel**
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
