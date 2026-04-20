@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm YASSINE Ben Zriouil</h1>
 <h3 align="center">A passionate Full-Stack developer from Morroco</h3>
 
-- Front-End  **React** **React-Native** **Next.js**
-- Back-End  **Node.js (Express)** **Laravel**
+
+
+Right now working with:
+
+- **Front-End:** React, React Native, Next.js  
+- **Back-End:** Node.js (Express), Laravel
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
