@@ -79,7 +79,7 @@
 
 <!-- trophies: self-hosted instance -->
 <div align="center">
-<img src="https://github-profile-trophy-ybz.vercel.app/?username=YassineBenZriouil&theme=radical&no-frame=true&margin-w=4&row=1" />
+<img src="https://raw.githubusercontent.com/YassineBenZriouil/YassineBenZriouil/main/trophy.svg" />
 </div>
 
 ---
