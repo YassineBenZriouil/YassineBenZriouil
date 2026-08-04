@@ -13,7 +13,7 @@ jobs:
         with:
           username: YassineBenZriouil
           output_path: trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN_TROPHY }}
+          token: ${{ secrets.TROPHY_TOKEN }}
       - run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
