@@ -65,19 +65,21 @@
 
 ### 📊 GitHub Stats
 
+<!-- stats: self-hosted instance -->
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YassineBenZriouil&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineBenZriouil&layout=compact&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats-ybz.vercel.app/api?username=YassineBenZriouil&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats-ybz.vercel.app/api/top-langs/?username=YassineBenZriouil&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YassineBenZriouil&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=YassineBenZriouil&theme=radical&hide_border=true" />
 </div>
 
 ### 🏆 Trophies
 
+<!-- trophies: self-hosted instance -->
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YassineBenZriouil&theme=radical&no-frame=true&margin-w=4&row=1" />
+<img src="https://github-profile-trophy-ybz.vercel.app/?username=YassineBenZriouil&theme=radical&no-frame=true&margin-w=4&row=1" />
 </div>
 
 ---
