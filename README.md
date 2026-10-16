@@ -18,7 +18,7 @@
 
 - 🔭 Currently building **full-stack web & mobile products** on the MERN stack and React Native
 - 🌱 Focused on shipping production-ready apps, not just prototypes
-- 🇲🇦 Based in Morocco — open to remote roles
+- 🇲🇦 Based in Morocco
 - ⚡ Fun fact: I ship faster with a good cup of coffee ☕
 
 ---
