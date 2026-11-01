@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse"><stop stop-color="#0B1018"/><stop offset="1" stop-color="#151E2A"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8BD5CA"/><stop offset="1" stop-color="#D5A56B"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#A9BACB" stroke-opacity=".08" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+<path d="M770 320 1020 0M850 320 1100 0M930 320 1180 0" stroke="url(#line)" stroke-opacity=".18" stroke-width="1.5"/>
+<circle cx="1010" cy="156" r="112" stroke="#8BD5CA" stroke-opacity=".22"/>
+<circle cx="1010" cy="156" r="82" stroke="#8BD5CA" stroke-opacity=".34"/>
+<circle cx="1010" cy="156" r="50" stroke="#D5A56B" stroke-opacity=".55"/>
+<path d="M1010 44V268M898 156H1122" stroke="#8BD5CA" stroke-opacity=".25"/>
+<circle cx="1010" cy="156" r="5" fill="#D5A56B"/>
+<path d="M42 52H94" stroke="#8BD5CA" stroke-width="3"/>
+<text x="42" y="112" fill="#8BD5CA" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" letter-spacing="4">SOFTWARE / SYSTEMS / CRAFT</text>
+<text x="38" y="190" fill="#F0F2F4" font-family="Georgia, 'Times New Roman', serif" font-size="64" letter-spacing="-2">Yassine Ben Zriouil</text>
+<text x="42" y="234" fill="#AAB7C5" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" letter-spacing="1.5">Building across the stack — from interfaces to native software.</text>
+<text x="42" y="282" fill="#718092" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="2">MOROCCO  /  OPEN TO INTERESTING PROBLEMS</text>
+<text x="1155" y="288" fill="#8BD5CA" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" text-anchor="end">001 — 026</text>
+</svg>
